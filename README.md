@@ -1,4 +1,3 @@
-# Fifa_world_cup_matches_analysis
 # World Cup Match Data Analysis and Visualization
 
 This project analyzes a dataset of FIFA World Cup matches using Python, with the goal of uncovering insights from match statistics and visualizing key trends.
